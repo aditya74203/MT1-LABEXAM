@@ -177,3 +177,5 @@ server.listen(PORT, () => {
   console.log(`  GET  http://localhost:${PORT}/home`);
   console.log(`  POST http://localhost:${PORT}/add-book`);
 });
+
+// Module A complete - HTTP Server with routing, FS module, and error handling
