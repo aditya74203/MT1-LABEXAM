@@ -11,12 +11,12 @@
 
 ```
 MT1-LABEXAM/
-├── package.json        ← ES Module config + dependencies
-├── httpServer.js       ← Part A: HTTP Module server (Port 3000)
-├── expressApp.js       ← Part B: Express.js REST API (Port 4000)
+├── package.json        
+├── httpServer.js       
+├── expressApp.js       
 ├── public/
-│   └── index.html      ← Static HTML served via FS Module
-└── screenshots/        ← Add your test screenshots here
+│   └── index.html      
+└── screenshots/        
 ```
 
 ---
