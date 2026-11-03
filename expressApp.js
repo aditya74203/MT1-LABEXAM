@@ -149,3 +149,5 @@ app.listen(PORT, () => {
   console.log(`  PUT    http://localhost:${PORT}/books/:id`);
   console.log(`  DELETE http://localhost:${PORT}/books/:id`);
 });
+
+// Module B complete - Express.js REST API with full CRUD operations
